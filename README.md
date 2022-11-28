@@ -4,4 +4,5 @@ Devfest'22 Algiers is the biggest GDG Algiers event of the year, each year, our 
 
 #### Tracks
 
-- [Web Track](./Web/)
+- [Web Track](./Web)
+- [Mobile Track](./Mobile)
